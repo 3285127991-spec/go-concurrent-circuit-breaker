@@ -1,3 +1,3 @@
-module circuitbreaker
+module example.com/circuitbreaker
 
-go 1.27.0
+go 1.22
